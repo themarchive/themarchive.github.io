@@ -101,6 +101,7 @@
   background-color: yellow;
   border: 3pt solid black;
   float: top;
+  color: black;
 }
 
 #test1:hover {
