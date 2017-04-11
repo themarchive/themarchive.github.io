@@ -51,6 +51,41 @@
   margin-left: 6px;
 }
 
+#test5 {
+  height:145px;
+  width:145px;
+  background-color: red;
+  border: 6px solid black;
+  float: left;
+  margin-left: 6px;
+}
+
+#test6 {
+  height:145px;
+  width:145px;
+  background-color: red;
+  border: 6px solid black;
+  float: left;
+  margin-left: 6px;
+}
+
+#test7 {
+  height:145px;
+  width:145px;
+  background-color: red;
+  border: 6px solid black;
+  float: left;
+  margin-left: 6px;
+}
+
+#test8 {
+  height:145px;
+  width:145px;
+  background-color: red;
+  border: 6px solid black;
+  float: left;
+  margin-left: 6px;
+}
 
 #test1:hover {
   background-color: #ff7780;
