@@ -52,6 +52,15 @@
 }
 
 #test5 {
+  height:145px;
+  width:145px;
+  background-color: red;
+  border: 6px solid black;
+  float: left;
+  margin-left: 6px;
+}
+
+#test6 {
   height:60px;
   width:60px;
   background-color: red;
@@ -60,18 +69,9 @@
   margin-left: 6px;
 }
 
-#test6 {
+#test7 {
   height:83px;
   width:83px;
-  background-color: red;
-  border: 6px solid black;
-  float: left;
-  margin-left: 6px;
-}
-
-#test7 {
-  height:145px;
-  width:145px;
   background-color: red;
   border: 6px solid black;
   float: left;
