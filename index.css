@@ -88,12 +88,20 @@
 }
 
 #test9 { 
-  height: 60px;
+  height: 30px;
   width: 1000px;
   background-color: red;
   border: 3pt solid black;
-  float: left;
+  float: top;
   }
+
+#test10 {
+  height: 30px
+  width: 600px;
+  background-color: yellow;
+  border: 3pt solid black;
+  float: top;
+}
 
 #test1:hover {
   background-color: #ff7780;
