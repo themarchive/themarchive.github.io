@@ -92,6 +92,8 @@
   width: 1000px;
   background-color: red;
   border: 3pt solid black;
+  color: black;
+  float: left;
   }
 
 #test1:hover {
