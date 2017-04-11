@@ -104,6 +104,23 @@
   color: black;
 }
 
+#STD1 {
+  height: 800px;
+  width: 400px;
+  background-color: green;
+  border: 3pt solid black;
+  float: top
+}
+
+#STDh1 {
+  height: 1000px;
+  width: 400px;
+  background-color: green;
+  border: 3pt solid black;
+  float:top
+}
+
+
 #test1:hover {
   background-color: #ff7780;
 }
