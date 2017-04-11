@@ -87,12 +87,11 @@
   margin-left: 6px;
 }
 
-#test 9 { 
+#test9 { 
   height: 60px;
   width: 1000px;
   background-color: red;
   border: 3pt solid black;
-  color: black;
   float: left;
   }
 
