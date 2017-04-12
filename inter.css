@@ -1,4 +1,4 @@
-body: first-children {
+body:first-child {
   border-radius: 100%;
   color: white;
   border: solid 4px black;
