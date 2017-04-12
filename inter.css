@@ -24,12 +24,14 @@ div {
   height: 63px;
   width: 63px;
   background-color: purple;
+  font-size: 5px;
 }
 
 #boiler {
   height: 57px;
   width: 57px;
   background-color: red;
+  font-size: 5px;
 }
 
     
