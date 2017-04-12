@@ -1,4 +1,4 @@
-.circles {
+body: first-children {
   border-radius: 100%;
   color: white;
   border: solid 4px black;
