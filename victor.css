@@ -5,3 +5,6 @@ background: url(victor.jpg) no-repeat center center fixed;
   -o-background-size: cover;
   background-size: cover;
 }
+h1 {
+  color: white;
+}
